@@ -1,0 +1,14 @@
+2023-01-20 03-39-44 [install_error] Can't connect to database server.
+Access denied for user 'ecommerce'@'localhost' (using password: YES)
+2023-01-20 03-39-59 [install_error] Can't connect to database server.
+Access denied for user 'ecommerce'@'localhost' (using password: YES)
+2023-01-20 03-41-02 [install_error] Can't connect to database server.
+Access denied for user 'root'@'localhost' (using password: YES)
+2023-01-20 03-44-01 [install_error] Can't connect to database server.
+Access denied for user 'equipo'@'localhost' (using password: YES)
+2023-01-20 03-44-26 [install_error] Can't connect to database server.
+Access denied for user 'equipo'@'localhost' (using password: YES)
+2023-01-20 03-49-47 [install_error] Can't connect to database server.
+php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+2023-01-20 03-51-02 [install_error] Can't connect to database server.
+Access denied for user 'equipo'@'localhost' (using password: YES)
